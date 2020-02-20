@@ -1,6 +1,7 @@
 # DoubleFeature: Many ways to Lasso & OOP with R
 https://www.meetup.com/Chicago-R-User-Group/events/268363081/
 
+Intro [slides here](https://rawcdn.githack.com/Chicago-R-User-Group/2020-n2-DoubleFeature-Many-ways-to-Lasso-and-OOP-in-R/b5870e280e909b42b83b21a92c3d2a125be4767d/intro-slides/Doulbe_Feature_intro.html)
 
 We have another exciting meetup, featuring Jared Lander, author of author of "R for Everyone" as well as Anthony Shook, Lead Data Scientist at Jellyvision Labs, inc.
 
