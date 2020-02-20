@@ -103,12 +103,6 @@ library(RUGtools)
 
 # Anyone hiring R folks? 
 
-## Aquatic Capital Management
-
-https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/4507117002
-
-<div style="text-align:center"><img src="images/Automation_Engineer.png" width="800px"/></div>
-
 # Tonight's Sponsor
 
 ## Special Thanks To 
