@@ -5,7 +5,7 @@ Intro [slides here](https://rawcdn.githack.com/Chicago-R-User-Group/2020-n2-Doub
 
 [Jared Lander: Many ways to Lasso](https://rawcdn.githack.com/Chicago-R-User-Group/2020-n2-DoubleFeature-Many-ways-to-Lasso-and-OOP-in-R/9730b855bfcfdd9e00e7d7883d8fbfc88c8b50cf/ManyWaysToLasso2.html)
 
-**Anthony Shook, Ph.D: Object-Oriented Programming in R**
+[Anthony Shook, Ph.D: Object-Oriented Programming in R](https://github.com/Chicago-R-User-Group/2020-n2-DoubleFeature-Many-ways-to-Lasso-and-OOP-in-R/blob/master/Object-Oriented%20Programming%20in%20R.pdf)
 
 Anthony started using R more than 10 years ago because he hated Excel, and has never looked back! A former Northwestern Professor, and now Lead Data Scientist at Jellyvision Labs, Anthony will teach us about S3, S4, and R6 object oriented systems in R. https://www.jellyvision.com/ https://www.linkedin.com/in/ajshook/
 
