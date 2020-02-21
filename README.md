@@ -7,7 +7,7 @@ We have another exciting meetup, featuring Jared Lander, author of author of "R 
 
 Doors open at 5:30 talks begin at 6 pm. Vittles will be served, sponsored by IBM!
 
-**Jared Lander: Many ways to Lasso**
+[Jared Lander: Many ways to Lasso](https://rawcdn.githack.com/Chicago-R-User-Group/2020-n2-DoubleFeature-Many-ways-to-Lasso-and-OOP-in-R/9730b855bfcfdd9e00e7d7883d8fbfc88c8b50cf/ManyWaysToLasso2.html)
 
 **Anthony Shook, Ph.D: Object-Oriented Programming in R**
 
